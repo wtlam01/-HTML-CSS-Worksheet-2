@@ -15,5 +15,15 @@
 
     <p>Making a pizza is simlar to coding. There are certain things we have to do first. Like making the base, letting it rise, mould the base out...<p/>
 
+    <ol>
+       <li>make the pizza base</li>
+       <li>add the tomato sauce</li>
+       <li>add the toppings</li>
+       <li>add the chese</li>
+       <li>bake</li>
+       <li>cut</li>
+       <li>serve</li>
+   </ol>
+
 </body>
 </html>
